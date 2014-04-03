@@ -6,8 +6,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.GenerationType;
 import javax.persistence.Table;
-
-// TODO: Add annotations to declare an entity class, and specify the correct database table name 
+ 
 @Entity
 @Table(name = "Dinos")
 public class DinosaurItem {
@@ -15,7 +14,6 @@ public class DinosaurItem {
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	// TODO: Specify the correct database column name
 	@Column(name = "DINO_ID")
 	private Long id;
 	private String name;
