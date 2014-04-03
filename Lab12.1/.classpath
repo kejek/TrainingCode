@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/MDTDATA/StudentWork/FTJ/JPALib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/MDTDATA/StudentWork/FTJ/JPALib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/MDTDATA/StudentWork/FTJ/JPALib/hibernate-commons-annotations-4.0.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/MDTDATA/StudentWork/FTJ/JPALib/hibernate-core-4.2.6.Final.jar"/>
+	<classpathentry kind="lib" path="C:/MDTDATA/StudentWork/FTJ/JPALib/hibernate-entitymanager-4.2.6.Final.jar"/>
+	<classpathentry kind="lib" path="C:/MDTDATA/StudentWork/FTJ/JPALib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/MDTDATA/StudentWork/FTJ/JPALib/javassist-3.15.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/MDTDATA/StudentWork/FTJ/JPALib/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/MDTDATA/StudentWork/FTJ/JPALib/jboss-transaction-api_1.1_spec-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/MDTDATA/StudentWork/FTJ/DerbyLib/derbyclient.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
